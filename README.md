@@ -1,14 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luc%20Mwizerwa&fontSize=50&fontAlignY=35&desc=CS%20%40%20OU%20%7C%20Incoming%20SWE%20Intern%20%40%20Microsoft&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luc%20Mwizerwa&fontSize=50&fontAlignY=35&desc=BS%2FMS%20CS%20%40%20OU%20%7C%20Incoming%20SWE%20Intern%20%40%20Microsoft&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Engineer;Backend+%26+ML+Enthusiast;Incoming+Microsoft+SWE+Intern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Engineer;Backend+%26+AI+Enthusiast;Incoming+Microsoft+SWE+Intern)](https://git.io/typing-svg)
 
 ---
 
 ## 👋 About Me
 
-CS student at the **University of Oklahoma** | Incoming SWE Intern @ **Microsoft** (Redmond, Summer 2026)
+BS/MS CS student (accelerated program) at the **University of Oklahoma** | Incoming SWE Intern @ **Microsoft** (Redmond, Summer 2026)
 
-I build full-stack apps, distributed backend systems, and ML pipelines. I compete in hackathons and am passionate about writing software that scales.
+I build full-stack apps and distributed systems, with a focus on clean architecture and performance at scale. I compete in hackathons and love shipping things that actually work.
 
 ⚡ Fun fact: I can debug your backend *and* color-grade your photos.
 
@@ -16,9 +16,10 @@ I build full-stack apps, distributed backend systems, and ML pipelines. I compet
 
 ## 🔭 What I'm Up To
 
-- 🏗️ **Building:** <!-- Add your current project name and a one-line description -->
-- 📚 **Learning:** <!-- e.g., Distributed systems, Rust, LLM fine-tuning -->
-- 🎯 **Goal:** Land a return offer at Microsoft & ship an ML side project
+- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim & Interactive Brokers — handles trade execution, position sizing, and real-time risk management with ML signals
+- 📚 **Learning:** Quantitative finance, options pricing models, and low-latency systems for algorithmic trading
+- 🏆 **Recent:** Competed in the **[Perplexity Computer Stock Pitch Competition](https://tmdx-price-proxy.vercel.app/)** — judged by Coatue, Third Point & Silver Lake (Spring 2026)
+- 🎯 **Goal:** Ship a production-grade trading system & publish research on LLM-assisted financial decision-making
 
 ---
 
@@ -26,11 +27,9 @@ I build full-stack apps, distributed backend systems, and ML pipelines. I compet
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| <!-- Project A --> | <!-- One-line description --> | <!-- e.g., Python, FastAPI, PostgreSQL --> | [Repo](#) |
-| <!-- Project B --> | <!-- One-line description --> | <!-- e.g., React, Node.js, Firebase --> | [Repo](#) |
-| <!-- Project C --> | <!-- One-line description --> | <!-- e.g., Next.js, Supabase, Vercel --> | [Repo](#) |
-
-> 📝 *Swap the placeholders above with your real projects — name, description, tech, and a link to the repo or live demo.*
+| 🤖 **Moja** — AI Phone Concierge | Conversational AI accessible via phone call or SMS — no smartphone or internet needed. Real-time WebSocket bridge between Twilio & Gemini Live API with custom audio transcoding. *Hacklahoma 2026* | Next.js, Gemini Live API, Twilio, WebSockets | [Repo](https://github.com/Moja-OU/Moja) |
+| 🧠 **MindStacks** — AI Research Arcade | Retro puzzle platform capturing anonymized human problem-solving data to help researchers build more transparent AI. Full telemetry pipeline with consent-based data export. | Next.js 15, Firebase, Google Genkit, TypeScript | [Repo](https://github.com/MindStacks-Project/mindstacks-app) |
+| 🛒 **LucCarts** — Campus Grocery Delivery | Instacart-inspired delivery app built for OU students. Cloud-native rewrite with real-time product catalog, persistent cart (Zustand), secure checkout, and RLS-protected order history. | Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS v4 | [Repo](https://github.com/lucm23/LucCarts) |
 
 ---
 
