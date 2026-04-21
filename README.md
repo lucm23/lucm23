@@ -6,19 +6,19 @@
 
 ## 👋 About Me
 
-BS/MS CS student (accelerated program) at the **University of Oklahoma** | Incoming SWE Intern @ **Microsoft** (Redmond, Summer 2026)
+BS/MS CS student (accelerated program) at the **University of Oklahoma** | December 2027  
 
-I build full-stack apps and distributed systems, with a focus on clean architecture and performance at scale. I compete in hackathons and love shipping things that actually work.
+I'm a software engineer specializing in **distributed systems**, **real-time AI pipelines**, and **financal Markets**. I compete in hackathons and love shipping things that actually work.
 
-⚡ Fun fact: I can debug your backend *and* color-grade your photos.
+⚡ Fun fact: I bridge the gap between high-performance backends and high-end visual aesthetics (Lightroom/Color-grading).
 
 ---
 
 ## 🔭 What I'm Up To
 
-- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim & Interactive Brokers — handles trade execution, position sizing, and real-time risk management with ML signals
+- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim & Interactive Brokers that handlesreal-time risk management and ML-driven excution ( position entry, exit, sizing)
 - 📚 **Learning:** Quantitative finance, options pricing models, and low-latency systems for algorithmic trading
-- 🏆 **Recent:** Competed in the **[Perplexity Computer Stock Pitch Competition](https://tmdx-price-proxy.vercel.app/)** — judged by Coatue, Third Point & Silver Lake (Spring 2026)
+- 🏆 **Recent:** Competed in the **[Perplexity Computer Stock Pitch Competition](https://tmdx-price-proxy.vercel.app/)**,  judged by Coatue, Third Point & Silver Lake (Spring 2026)
 - 🎯 **Goal:** Ship a production-grade trading system & publish research on LLM-assisted financial decision-making
 
 ---
@@ -27,9 +27,9 @@ I build full-stack apps and distributed systems, with a focus on clean architect
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| 🤖 **Moja** — AI Phone Concierge | Conversational AI accessible via phone call or SMS — no smartphone or internet needed. Real-time WebSocket bridge between Twilio & Gemini Live API with custom audio transcoding. *Hacklahoma 2026* | Next.js, Gemini Live API, Twilio, WebSockets | [Repo](https://github.com/Moja-OU/Moja) |
-| 🧠 **MindStacks** — AI Research Arcade | Retro puzzle platform capturing anonymized human problem-solving data to help researchers build more transparent AI. Full telemetry pipeline with consent-based data export. | Next.js 15, Firebase, Google Genkit, TypeScript | [Repo](https://github.com/MindStacks-Project/mindstacks-app) |
-| 🛒 **LucCarts** — Campus Grocery Delivery | Instacart-inspired delivery app built for OU students. Cloud-native rewrite with real-time product catalog, persistent cart (Zustand), secure checkout, and RLS-protected order history. | Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS v4 | [Repo](https://github.com/lucm23/LucCarts) |
+| 🤖 **Moja** | Conversational AI accessible via phone call or SMS — no smartphone or internet needed. Real-time WebSocket bridge between Twilio & Gemini Live API with custom audio transcoding (8kHz to 24kHz). *Hacklahoma 2026* | Next.js, Gemini Live API, Twilio, WebSockets | [Repo](https://github.com/Moja-OU/Moja) |
+| 🧠 **MindStacks** — AI Research Arcade | Retro puzzle platform capturing anonymized human problem-solving data to help researchers build more transparent AI. Full telemetry pipeline with consent-based data export. | Next.js 15, Firebase, Google Genkit | [Repo](https://github.com/MindStacks-Project/mindstacks-app) |
+| 🛒 **LucCarts** — Campus Grocery Delivery | A delivery app built for OU students. Cloud-native rewrite with real-time product catalog, persistent cart (Zustand), secure checkout, and RLS-protected order history. | React 19, Supabase, Tailwind CSS v4 | [Repo](https://github.com/lucm23/LucCarts) |
 
 ---
 
@@ -53,7 +53,7 @@ I build full-stack apps and distributed systems, with a focus on clean architect
 
 **Cloud & Infra:**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -63,7 +63,6 @@ I build full-stack apps and distributed systems, with a focus on clean architect
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
