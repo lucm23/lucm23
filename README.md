@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luc%20Mwizerwa&fontSize=50&fontAlignY=35&desc=BS%2FMS%20CS%20%40%20OU%20%7C%20Incoming%20SWE%20Intern%20%40%20Microsoft&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luc%20Mwizerwa&fontSize=50&fontAlignY=35&desc=BS%2FMS%20CS%20%40%20OU%20%7C%20Incoming%20SWE%20Intern%20%40%20Microsoft%20(Summer%202026)&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Engineer;Backend+%26+AI+Enthusiast;Incoming+Microsoft+SWE+Intern)](https://git.io/typing-svg)
 
