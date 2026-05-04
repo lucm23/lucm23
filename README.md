@@ -16,7 +16,7 @@ I'm a software engineer specializing in **distributed systems**, **real-time AI 
 
 ## 🔭 What I'm Up To
 
-- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim & Interactive Brokers that handlesreal-time risk management and ML-driven excution ( position entry, exit, sizing)
+- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim, Interactive Brokers, Sierra Chart or Ninjatrader that handlesreal-time risk management and ML-driven excution ( position entry, exit, sizing)
 - 📚 **Learning:** Quantitative finance, options pricing models, and low-latency systems for algorithmic trading
 - 🏆 **Recent:** Competed in the **[Perplexity Computer Stock Pitch Competition](https://tmdx-price-proxy.vercel.app/)**,  judged by Coatue, Third Point & Silver Lake (Spring 2026)
 - 🎯 **Goal:** Ship a production-grade trading system & publish research on LLM-assisted financial decision-making
