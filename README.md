@@ -8,7 +8,7 @@
 
 BS/MS CS student (accelerated program) at the **University of Oklahoma** | December 2027  
 
-I'm a software engineer specializing in **distributed systems**, **real-time AI pipelines**, and **financal Markets**. I compete in hackathons and love shipping things that actually work.
+I'm a software engineer specializing in **distributed systems**, **real-time AI pipelines**, and **financial markets**. I compete in hackathons and love shipping things that actually work.
 
 ⚡ Fun fact: I bridge the gap between high-performance backends and high-end visual aesthetics (Lightroom/Color-grading).
 
@@ -16,9 +16,9 @@ I'm a software engineer specializing in **distributed systems**, **real-time AI 
 
 ## 🔭 What I'm Up To
 
-- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim, Interactive Brokers, Sierra Chart or Ninjatrader that handlesreal-time risk management and ML-driven excution ( position entry, exit, sizing)
+- 🏗️ **Building:** A live futures trading algorithm integrated into ThinkOrSwim, Interactive Brokers, Sierra Chart, or Ninjatrader that handles real-time risk management and ML-driven execution ( position entry, exit, sizing)
 - 📚 **Learning:** Quantitative finance, options pricing models, and low-latency systems for algorithmic trading
-- 🏆 **Recent:** Competed in the **[Perplexity Computer Stock Pitch Competition](https://tmdx-price-proxy.vercel.app/)**,  judged by Coatue, Third Point & Silver Lake (Spring 2026)
+- 🏆 **Recent:** Competed in the **[Perplexity Computer Stock Pitch Competition](https://tmdx-price-proxy.vercel.app/)**,  judged by Coatue, Third Point & Silver Lake (Spring 2026), and also the **Oklahoma Innovation Challenge**, where we built **Sentinel 66**, (for  more, check the projects below)
 - 🎯 **Goal:** Ship a production-grade trading system & publish research on LLM-assisted financial decision-making
 
 ---
